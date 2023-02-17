@@ -19,9 +19,9 @@
 
 
 <br />
+### Check out my portfolio <a href="https://github.com/YunisAslan/artificial-intellegence-13">website</a>
 <br />
 
-### Check out my portfolio <a href="https://github.com/YunisAslan/artificial-intellegence-13">website</a>
 
 <details>
 <summary>:bulb: GitHub Stats</summary>
