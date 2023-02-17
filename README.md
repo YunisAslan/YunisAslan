@@ -21,6 +21,8 @@
 <br />
 <br />
 
+### Check out my portfolio <a href="https://github.com/YunisAslan/artificial-intellegence-13">website</a>
+
 <details>
 <summary>:bulb: GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=yunisaslan&show_icons=true&theme=tokyonight"> 
@@ -32,4 +34,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunisaslan&hide_progress=true"> 
 </details>
 
-### Check out my portfolio <a href="https://github.com/YunisAslan/artificial-intellegence-13">website</a>:
+### Check out my portfolio <a href="https://github.com/YunisAslan/artificial-intellegence-13">website</a>
