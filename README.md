@@ -1,7 +1,4 @@
 
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhlYTQ4MDEzMDQ4OThhNWE4OWVmNzc5MWU4ZTY1OWQ5ODU0NWRhOSZjdD1n/l0HlHLM0hD7bimkus/giphy.gif" align="right" height="200" width="140">
-
 # Hi, I'm Yunis :)
 ## Frontend Developer | <font color="#5F6D8D"> Someone who is looking. </font>
 
